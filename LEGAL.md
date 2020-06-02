@@ -9,7 +9,7 @@ Apache 2.0 License
 - [AWS Java Lambda Libs](https://github.com/aws/aws-lambda-java-libs) -
 Subject to an Apache 2.0 License
 - [Beads](https://github.com/orsjb/beads), a Java sound processing library -
-Subject to a Gnu Public License (GPL v3)
+Subject to a GNU Public License (GPL v3)
 - [Auth0 `java-jwt`](https://github.com/auth0/java-jwt), a Json Web Token
 processing library - Subject to a MIT License
 - [The Kotlin language](https://github.com/JetBrains/kotlin) - Subject to an
@@ -24,14 +24,15 @@ Apache 2.0 License
 
 ### License Implications and Legal Concerns
 
-#### Apache 2.0
-
 As the Licensees, we are distributing these libraries (without modifications)
 to Amazon, by using their web services. Our work is also a Derivative of the
 works, and we are also distributing it to Amazon. Additionally, subset of our
 work (the fornt-end code) is also distributed in source form to our users.
 
-Under the terms of this Apache License, this is allowed as long as we include
+#### Apache 2.0
+
+Under the terms of this Apache License, we are allowed this distribution as
+long as we include
 a notice along with our work. This notice must include a copy of the License
 as well as copyright notices of the authors of the Works we use.
 
@@ -44,4 +45,20 @@ problem we might encounter.
 Overall, aside from the obligations we must fulfill in producing the notice,
 being subject to this License should not pose any legal risks with regard to
 our work.
+
+#### MIT
+
+Similarly to being subject to the Apache v2 License, we may distribute our
+derived work (and copies of `java-jwk`, the work we use that has this
+license) as long as we include Auth0's copyright notice as well as a copy of
+the license.
+
+We may use Auth0's trademarks or logos too, but we may not hold them liable
+for any issues we might encounter.
+
+Aside from the obligation of including the copyright and the License, being
+subject to this License should not pose any legar risks with regard to our
+work.
+
+#### GNU Public License v3
 
