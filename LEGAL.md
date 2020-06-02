@@ -22,14 +22,14 @@ subject to the same license:
 - [Gradle](https://github.com/gradle/gradle), the build tool - Subject to an
 Apache 2.0 License
 
-### License Implications and Legal Concerns
+## License Implications and Legal Concerns
 
 As the Licensees, we are distributing these libraries (without modifications)
 to Amazon, by using their web services. Our work is also a Derivative of the
 works, and we are also distributing it to Amazon. Additionally, subset of our
 work (the fornt-end code) is also distributed in source form to our users.
 
-#### Apache 2.0
+### Apache 2.0
 
 Under the terms of this Apache License, we are allowed this distribution as
 long as we include a notice along with our work. This notice must include a
@@ -48,7 +48,7 @@ Overall, aside from the obligations we must fulfill in producing the notice,
 being subject to this License should not pose any legal risks with regard to
 our work.
 
-#### MIT
+### MIT
 
 Similarly to being subject to the Apache v2 License, we may distribute our
 derived work (and copies of `java-jwk`, the work we use that has this
@@ -64,7 +64,7 @@ Aside from the obligation of including the copyright and the License, being
 subject to this License should not pose any legar risks with regard to our
 work.
 
-#### GNU Public License v3
+### GNU Public License v3
 
 Of the three licenses we are subject to, GPL v3 is the most restrictive.
 
@@ -84,8 +84,9 @@ do not intend to do), or hold Ollie Brown liable for any problems we might
 encounter.
 
 Additionally, a small part of our work (the syncing service) performs dynamic
-linking with the Beads library. Therefore, there is a legal risk in using this library if we do not intend to
-make our syncing service open-source and license it under GPL v3.
+linking with the Beads library. Therefore, there is a legal risk in using
+this library if we do not intend to make our syncing service open-source and
+license it under GPL v3.
 
 Note that the syncing serice is not linked against any other parts of our
 source code, and thus the rest of our code should not constitute work _derived
@@ -99,3 +100,12 @@ linking (which is our case) violates GPL. But
 [other points of view 
 that argue otherwise do exist](https://en.wikipedia.org/wiki/GNU_General_Public_License#Linking_and_derived_works).
 
+## Wider Legal Implications
+
+### GDPR implications
+
+TODO
+
+### Music Copyright implications
+
+TODO
