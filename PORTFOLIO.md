@@ -26,7 +26,19 @@ to get an idea of useful our product would be for this stake holder. We later
 asked on reddit [How popular would a webapp to enable online b2b
 be?](https://www.reddit.com/r/DJs/comments/gmlpf1/how_popular_would_a_webapp_to_enable_online_b2b_be/)
 and got an overwhelming positive response that told us that this idea would
-be of great benefit for this stakeholder.
+be of great benefit for this stakeholder. Our product will allow DJs to
+collaborate in a way that wasn't before and therefore opening up more
+creative possibilities.
+
+## Record Labels
+
+Another stakeholder in our product would be the record labels. Although this
+stakeholder is almost completely indirect as they wouldn't be using the
+product themselves, it can still provide a great benefit for them.
+Collaboration in music is one of the best ways to attract and grow audiances
+as the following of both artists can be mutually shared. We have reached out
+to a few record labels and they were very interested in our product as they
+want to keep up with the tends and be able to use new opportunities.
 
 # Current/Future state
 
@@ -39,6 +51,7 @@ We did weekly interviews with DJs.
 Their feedback changed how we developed our user experience. For example:
 
 DJ Tristan:
+
 > Maybe have two sets of faders [...] then I could listen two both tracks at the same, but not the audience.
 
 And so we developed separate cure faders, going from design A to design B. **TODO designs here**
@@ -46,9 +59,11 @@ And so we developed separate cure faders, going from design A to design B. **TOD
 Additional examples includea adding an 'uploaded song list' or showing interactive feedback of a fellow DJ's actinos.
 
 ## Impact of DJStreamr
+
 As shown so far, positive feedback and reactions from a wide range of stakeholders is overwhelming.
 
 - DJ Tristan:
+
   > I am surprised at how usable it is. This could really be a thing.
 
-- 
+-
