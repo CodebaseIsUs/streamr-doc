@@ -19,6 +19,7 @@ subject to the same license:
     for JSON serialisation
   - [`kotlinx.coroutines`](https://github.com/Kotlin/kotlinx.coroutines),
     for concurrency
+- [MockK](https://github.com/mockk/mockk), a mocking library - Subject to an Apache 2.0 License
 - [Gradle](https://github.com/gradle/gradle), the build tool - Subject to an
 Apache 2.0 License
 - [AWS Amplify](https://www.npmjs.com/package/aws-amplify), aws interface for
