@@ -125,7 +125,7 @@ Note that the syncing serice is not linked against any other parts of our
 source code, and thus the rest of our code should not constitute work _derived
 from_ Beads.
 
-Thus, should we wish to realease our work, it is recommended the syncing
+Thus, should we wish to release our work, it is recommended the syncing
 service be rewritten without using Beads.
 
 It is worth noting that the Free Software Foundation considers that _dynamic_
@@ -133,17 +133,34 @@ linking (which is our case) violates GPL. But
 [other points of view 
 that argue otherwise do exist](https://en.wikipedia.org/wiki/GNU_General_Public_License#Linking_and_derived_works).
 
-## CC BY 4.0
+### CC BY 4.0
 
-TODO (for fontawesome icons)
+Under the terms of the CC BY 4.0 license, we may copy, redistribute,
+transform and build upon the material for any purpose, including for
+commercial applications.
 
-## SIL OFL 1.1
+The only obligation is to attribute appropriate credit to the original
+project, provide a link to the license and indicate if changes were made,
+which is not our case.
 
-TODO (for fontawesome fonts)
+### SIL OFL 1.1
 
-## BSD-3-Clause
+The SIL Open Font License 1.1 requires that the font or any modified version
+be not sold by itself. This does not apply to us as if we want to monetise
+our service, it would not count as selling the font by itself.
 
-TOOD (for wavesurfer)
+If bundled with software, the original copyrught and a link to the license
+must be provided in such a way that they can be easily viewed by the user.
+
+### BSD-3-Clause
+
+The license allows us to user, modify and distribute the software including
+for commercial applications.
+
+We may not use the name of the original company or product to endorse our
+product and we cannot hold them liable for any damage done by our product.
+
+Finally, we must include a link to the original copyright and license.
 
 ## Wider Legal Implications
 
