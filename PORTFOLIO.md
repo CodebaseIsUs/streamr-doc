@@ -117,5 +117,3 @@ As shown so far, positive feedback and reactions from a wide range of stakeholde
   > I am surprised at how usable it is. This could really be a thing.
 
 -
-
-# Testing and Validation
