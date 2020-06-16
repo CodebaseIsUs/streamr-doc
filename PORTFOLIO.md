@@ -20,6 +20,14 @@ platform of choice and the audience can seamlessly listen to the performance wit
 
 ## DJs
 
+This stakeholder is a direct user of our product as they will be the only one
+that's using the user interface. We initially researched around the internet
+to get an idea of useful our product would be for this stake holder. We later
+asked on reddit [How popular would a webapp to enable online b2b
+be?](https://www.reddit.com/r/DJs/comments/gmlpf1/how_popular_would_a_webapp_to_enable_online_b2b_be/)
+and got an overwhelming positive response that told us that this idea would
+be of great benefit for this stakeholder.
+
 # Current/Future state
 
 ## Opportunity statement
