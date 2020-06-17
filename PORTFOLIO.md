@@ -8,51 +8,51 @@ _How might we, then, enable this collaboration remotely and allow for the organi
 
 ## Moodboard
 
-![Algoriddim Interface](hcd_documents/moodboard/algoriddim_interface.png)
-![Cross DJ Interface](hcd_documents/moodboard/crossdj_interface.png)
-![DJay Interface](hcd_documents/moodboard/djay_interface.png)
-![Serato DJ Lite Interface](hcd_documents/moodboard/seratodjlite_interface.png)
-![Serato DJ Pro Interface](hcd_documents/moodboard/seratodjpro_interface.png)
+![Algoriddim Interface](hcd_documents/moodboard/algoriddim_interface.png){ width=50% } 
+![Cross DJ Interface](hcd_documents/moodboard/crossdj_interface.png){ width=50% } 
+![DJay Interface](hcd_documents/moodboard/djay_interface.png){ width=50% } 
+![Serato DJ Lite Interface](hcd_documents/moodboard/seratodjlite_interface.png){ width=50% } 
+![Serato DJ Pro Interface](hcd_documents/moodboard/seratodjpro_interface.png){ width=50% } 
 
 We drew inspiration from existing DJ softwares.
 
 ## User Journeys
 
-![Past user journey](hcd_documents/user_journeys/user_journey_without_djstreamr.png)
+![Past user journey](hcd_documents/user_journeys/user_journey_without_djstreamr.png){ width=75% }
 
 As there was no such tools that allowed DJs to collaborate remotely before DJStreamr, the user journey of setting up a Remote Collaborative DJ session was tedious and would most frequently not end up succeeding.
 
 Now, opening a session and connecting to a streaming platform is as easy as it can be:
 
 ![Opening a Session](hcd_documents/user_journeys/user_journey_session.png)
-![Connecting to a Stream](hcd_documents/user_journeys/user_journey_stream.png)
+![Connecting to a Stream](hcd_documents/user_journeys/user_journey_stream.png){ width=80% }
 
 ## Architecture Design
 
 ![Full Cloud Architecture](hcd_documents/architecture_diagrams/full_cloud_architecture.jpg)
-![Cloud Architecture Overview](hcd_documents/architecture_diagrams/cloud_architecture_overview.jpg)
+![Cloud Architecture Overview](hcd_documents/architecture_diagrams/cloud_architecture_overview.jpg){ width=80% }
 
 ## Evolution of UI
 
 As the project entailed an important technical challenge, we started the project by developing a _Proof of Concept_.
 
-![Proof of Concept](hcd_documents/ui_evolution/proof_of_concept.png)
+![Proof of Concept](hcd_documents/ui_evolution/proof_of_concept.png){ width=80% }
 
 We then used _Adobe XD_ to design an interactive prototype. This allowed us to make sure the whole team agreed on the same design choices. We were also able to collect rich feedback from interactive sessions of people using this prototype.
 
-![Prototype](hcd_documents/ui_evolution/prototype.png)
+![Prototype](hcd_documents/ui_evolution/prototype.png){ width=80% }
 
 As of today, our product is live on _[djstreamr.com](https://djstreamr.com)_ and looks quite similar to our prototype, with the addition of features that we were requested to implement during feedback sessions.
 
-![Website UI](hcd_documents/ui_evolution/website_ui.png)
+![Website UI](hcd_documents/ui_evolution/website_ui.png){ width=80% }
 
 ## Evolution of features <a ref="evolution"></a>
 
 |                      Features' mockups as prototyped                       |                      Features once implemented                       |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| ![Landing Page Prototype](hcd_documents/ui_evolution/old_landing_page.png) | ![Landing Page Now](hcd_documents/ui_evolution/new_landing_page.png) |
-|       ![Tracks Prototype](hcd_documents/ui_evolution/old_tracks.png)       |       ![Tracks Now](hcd_documents/ui_evolution/new_tracks.png)       |
-|     ![Login Prototype](hcd_documents/ui_evolution/login_prototype.png)     |          ![Login Now](hcd_documents/ui_evolution/login.png)          |
+| ![Landing Page Prototype](hcd_documents/ui_evolution/old_landing_page.png){ width=50% } | ![Landing Page Now](hcd_documents/ui_evolution/new_landing_page.png){ width=50% } |
+|       ![Tracks Prototype](hcd_documents/ui_evolution/old_tracks.png){ width=50% }       |       ![Tracks Now](hcd_documents/ui_evolution/new_tracks.png){ width=50% }       |
+|     ![Login Prototype](hcd_documents/ui_evolution/login_prototype.png){ width=50% }     |          ![Login Now](hcd_documents/ui_evolution/login.png){ width=50% }          |
 
 # People
 
