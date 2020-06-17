@@ -166,7 +166,24 @@ Finally, we must include a link to the original copyright and license.
 
 ### GDPR implications
 
-TODO
+Under GDPR, we are the controller and a processor. Since we are using AWS,
+they are also a processor. AWS is certified under GDPR for all its services.
+
+On our side, the only personal information we collect is email. We only ask
+for information we need and not for any additional information such as real
+name, birth date etc. We also do not log IP addresses.
+
+From a security perspective, all the personal data is stored and managed
+using AWS Cognito, which implements the latest security standards. On our
+side, our website and APIs work only over HTTPS to protect the users' data.
+Futhermore, all API routes which could expose user data are protected by JSON
+Web Token authentication to only allow access to users who have the right to
+access this data.
+
+There is currently one point in which we are not GDPR compliant in that we do
+not have a user facing interface to allow users to delete their account. We
+can however do that from our end and do not keep records of any future
+or past data after deletion.
 
 ### Music Copyright implications
 
