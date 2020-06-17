@@ -1,7 +1,8 @@
-# Current/Future state
+# Opportunity statement
 
+Collaboration is an essential part of DJing. It is genuinely common for two DJs to mix together on the same set of decks and on the same stage. However, this is currently not possible remotely, when DJs are in two different locations. This goes against the rising trend of live concerts.
 
-## Opportunity statement
+*How might we, then, enable this collaboration remotely and allow for the organisation of online concerts featuring different artists in order to create a rich and vibrant experience, and strengthen the connection between artists, concert bookers and fans?*
 
 # Designing UI
 
@@ -44,7 +45,7 @@ As of today, our product is live on *[djstreamr.com](https://djstreamr.com)* and
 
 ![Website UI](hcd_documents/ui_evolution/website_ui.png)
 
-### Evolution of features <a ref="evolution"></a>
+## Evolution of features <a ref="evolution"></a>
 
 Features' mockups as prototyped             |  Features once implemented
 :-------------------------:|:-------------------------:
