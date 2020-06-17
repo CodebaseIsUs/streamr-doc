@@ -173,9 +173,9 @@ On our side, the only personal information we collect is email. We only ask
 for information we need and not for any additional information such as real
 name, birth date etc. We also do not log IP addresses.
 
-From a security perspective, all the personal data is stored and managed
+From a security perspective, all personal data is stored and managed
 using AWS Cognito, which implements the latest security standards. On our
-side, our website and APIs work only over HTTPS to protect the users' data.
+side, our website and APIs work only over HTTPS to protect users' data.
 Futhermore, all API routes which could expose user data are protected by JSON
 Web Token authentication to only allow access to users who have the right to
 access this data.
