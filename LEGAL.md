@@ -170,4 +170,27 @@ TODO
 
 ### Music Copyright implications
 
-TODO
+#### Processing our users' music
+
+As a (sort of) music streaming service, our users are able to upload songs to
+our platform. We then broadcast these works to their audiences.
+
+We are not familiar with music copyright law, but we believe a possible
+solution could be to require our users to only use music of public domain in
+our platform. This would ensure they may share it, we may process it, and we
+may distribute copies of it.
+
+In order to be less strict, we could allow users to use works they own with our platform, but requiring a license from them. This license should allow us to store and distribute copies of their works.
+
+#### Streaming to popular platforms
+
+Our service also involves streaming to existing platforms such as
+[Twitch](twitch.tv) or [YouTube](youtube.com). These platforms are strict
+about complying with copyright law and will terminate accounts upon
+infringement.
+
+While our product streams to these services, it uses our users' steraming
+keys. This means that streaming to YouTube will happen with our users'
+account, for example. Thus, copyright enforcement can be performed by the
+platforms without our service being concerned, because liability lies with
+our users.
