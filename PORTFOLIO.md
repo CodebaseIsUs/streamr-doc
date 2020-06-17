@@ -44,9 +44,9 @@ As of today, our product is live on *[djstreamr.com](https://djstreamr.com)* and
 
 ![Website UI](hcd_documents/ui_evolution/website_ui.png)
 
-### Evolution of features
+### Evolution of features <a ref="evolution"></a>
 
-Features as prototyped             |  Features once implemented
+Features' mockups as prototyped             |  Features once implemented
 :-------------------------:|:-------------------------:
 ![Landing Page Prototype](hcd_documents/ui_evolution/old_landing_page.png)  |  ![Landing Page Now](hcd_documents/ui_evolution/new_landing_page.png)
 ![Tracks Prototype](hcd_documents/ui_evolution/old_tracks.png) |  ![Tracks Now](hcd_documents/ui_evolution/new_tracks.png)
@@ -104,7 +104,7 @@ Dell the Operator *(Tristan)*:
 
 > Maybe have two sets of faders [...] then I could listen two both tracks at the same, but not the audience.
 
-And so we developed separate cure faders, going from design A to design B. **TODO designs here**
+And so we developed separate [cue faders](#evolutution).
 
 Additional examples includea adding an 'uploaded song list' or showing interactive feedback of a fellow DJ's actinos.
 
@@ -115,5 +115,3 @@ As shown so far, positive feedback and reactions from a wide range of stakeholde
 - Dell the Operator *(Tristan Dell)*:
 
   > I am surprised at how usable it is. This could really be a thing.
-
--
