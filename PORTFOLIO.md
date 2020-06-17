@@ -100,7 +100,7 @@ We did weekly interviews with DJs.
 
 Their feedback changed how we developed our user experience. For example:
 
-Dell the Operator *(Tristan)*:
+Dell the Operator *(Tristan Dell)*:
 
 > Maybe have two sets of faders [...] then I could listen two both tracks at the same, but not the audience.
 
