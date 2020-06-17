@@ -206,7 +206,7 @@ Our service also involves streaming to existing platforms such as
 about complying with copyright law and will terminate accounts upon
 infringement.
 
-While our product streams to these services, it uses our users' steraming
+While our product streams to these services, it uses our users' streaming
 keys. This means that streaming to YouTube will happen with our users'
 account, for example. Thus, copyright enforcement can be performed by the
 platforms without our service being concerned, because liability lies with
