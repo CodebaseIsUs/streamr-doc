@@ -99,7 +99,7 @@ work.
 
 ### GNU Public License v3
 
-Of the three licenses we are subject to, GPL v3 is the most restrictive.
+Of licenses we are subject to, GPL v3 is the most restrictive.
 
 We may distribute the Work we use (the **Beads** library) and our derived work,
 as long as we include a notice that:
@@ -139,9 +139,9 @@ Under the terms of the CC BY 4.0 license, we may copy, redistribute,
 transform and build upon the material for any purpose, including for
 commercial applications.
 
-The only obligation is to attribute appropriate credit to the original
-project, provide a link to the license and indicate if changes were made,
-which is not our case.
+The only obligation we have is to attribute appropriate credit to the
+original project, provide a link to the license and indicate if changes were
+made, which is not our case.
 
 ### SIL OFL 1.1
 
@@ -149,7 +149,7 @@ The SIL Open Font License 1.1 requires that the font or any modified version
 be not sold by itself. This does not apply to us as if we want to monetise
 our service, it would not count as selling the font by itself.
 
-If bundled with software, the original copyrught and a link to the license
+If bundled with software, the original copyright and a link to the license
 must be provided in such a way that they can be easily viewed by the user.
 
 ### BSD-3-Clause
