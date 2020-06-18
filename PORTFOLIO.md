@@ -128,7 +128,7 @@ that we implement a click and drag functionality in a form of a slider that
 would control the knobs value and angle. This was also more standard in other
 DJ software. Therefore we reworked our knob controls.
 
-Additional examples includea adding an 'uploaded song list' or showing interactive feedback of a fellow DJ's actinos.
+Additional examples includes adding an 'uploaded song list' or showing interactive feedback of a fellow DJ's actions.
 
 ## Impact of DJStreamr
 
@@ -137,3 +137,5 @@ As shown so far, positive feedback and reactions from a wide range of stakeholde
 - Dell the Operator _(Tristan Dell)_:
 
   > I am surprised at how usable it is. This could really be a thing.
+  
+Eventually, we think that DJStreamr can have a genuinely strong and positive impact on the Music Industry and especially the Live DJ Industry. We think that this product could have an impact on all of our stakeholders. DJStreamr has already had an impact on some DJs as our first users gave us positive feedback and seem keen on using the product in the future. We also plan on having meetings with some label representatives to explore the way they can use DJStreamr to improve the connection between DJs and their fans.
